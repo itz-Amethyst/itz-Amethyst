@@ -10,3 +10,5 @@
   <br>
   <img src="https://profile-counter.glitch.me/callme-devil/count.svg" />
 </p>
+
+<img src="https://github.com/callme-devil/callme-devil/blob/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
