@@ -1,6 +1,8 @@
 ### Spotify Playing 🎵
 [![Spotify](https://spotify-livestats-callme-milad.vercel.app/api/spotify)](https://open.spotify.com/user/314mrt6dxn5cqoxklh3thbwlr6by)
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 ### Find me on Discord 💻
 <a href="https://discord.gg/t4DwTxa8KA" rel="nofollow"> 
   <img src="https://discord.c99.nl/widget/theme-3/977957889358573609.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/977957889358573609.png" style="max-width: 100%;"></a>
