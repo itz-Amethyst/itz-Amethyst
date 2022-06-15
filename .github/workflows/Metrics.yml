@@ -40,9 +40,8 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_anilist: yes
-          plugin_anilist_limit: 2
+          plugin_anilist_limit: 0
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
-          plugin_anilist_shuffle: yes
+          plugin_anilist_sections: favorites, watching, characters
           plugin_anilist_user: fallendevil666
