@@ -3,6 +3,9 @@
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Find me on Discord 💻
 <a href="https://discord.gg/t4DwTxa8KA" rel="nofollow"> 
   <img src="https://discord.c99.nl/widget/theme-3/977957889358573609.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/977957889358573609.png" style="max-width: 100%;"></a>
