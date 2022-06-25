@@ -4,6 +4,7 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ### Find me on Discord 💻
