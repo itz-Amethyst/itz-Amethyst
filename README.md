@@ -38,7 +38,7 @@ TopLearnAdvanced         7 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Find me on Discord 💻
-<a href="https://discord.gg/t4DwTxa8KA" rel="nofollow"> 
+<a href="https://discord.gg/t35EjYprS6" rel="nofollow"> 
   <img src="https://discord.c99.nl/widget/theme-3/977957889358573609.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/977957889358573609.png" style="max-width: 100%;"></a>
 
 ### Visitor Count 🔢
