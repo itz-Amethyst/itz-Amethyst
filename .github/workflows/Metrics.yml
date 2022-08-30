@@ -44,5 +44,5 @@ jobs:
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, characters
-          plugin_anilist_user: fallendevil666
+          plugin_anilist_user: CallmeMilad
           plugin_fortune: yes
