@@ -38,7 +38,7 @@ Vertical-RTL             17 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Find me on Discord 💻
-<a href="https://discord.gg/t35EjYprS6" rel="nofollow"> 
+<a href="https://discord.gg/pQVcABAxAy" rel="nofollow"> 
   <img src="https://discord.c99.nl/widget/theme-3/977957889358573609.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/977957889358573609.png" style="max-width: 100%;"></a>
 
 ### Visitor Count 🔢
