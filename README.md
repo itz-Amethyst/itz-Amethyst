@@ -36,7 +36,7 @@ TopLearnAdvanced         3 mins              ░░░░░░░░░░░�
 
 ### Find me on Discord 💻
 <a href="https://discord.gg/pQVcABAxAy" rel="nofollow"> 
-  <img src="https://discord.c99.nl/widget/theme-2/977957889358573609.png" data-canonical-src="https://discord.c99.nl/widget/theme-2/977957889358573609.png" style="max-width: 100%;"></a>
+  <img src="https://discord.c99.nl/widget/theme-3/1001889586626175006.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/1001889586626175006.png" style="max-width: 100%;"></a>
 
 ### Visitor Count 🔢
 <p align="left"> 
