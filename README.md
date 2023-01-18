@@ -1,5 +1,5 @@
 ### Spotify Playing 🎵
-[![Spotify](https://spotify-livestats-callme-milad.vercel.app/api/spotify)](https://open.spotify.com/user/314mrt6dxn5cqoxklh3thbwlr6by)
+[![Spotify](https://novatorem-callme-milad.vercel.app/api/spotify)](https://open.spotify.com/user/31qocuc7c7cg5zouwkn7jso7h5qa)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=17&pause=3000&width=435&lines=Languages+and+Technologies+I+uses+%3A)](https://git.io/typing-svg)
 
