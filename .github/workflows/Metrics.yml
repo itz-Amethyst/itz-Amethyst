@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: callme-devil
+          user: itz-Amethyst
           template: classic
           base: header, activity, repositories
           config_timezone: Asia/Tehran
