@@ -22,10 +22,10 @@
 
 ```text
 💬 Programming Languages: 
-C#                       6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SignalRChat              6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
