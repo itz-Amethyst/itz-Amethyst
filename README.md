@@ -58,7 +58,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <!-- <a href="https://discord.gg/pQVcABAxAy" rel="nofollow"> 
   <img src="https://discord.c99.nl/widget/theme-3/1001889586626175006.png" data-canonical-src="https://discord.c99.nl/widget/theme-3/1001889586626175006.png" style="max-width: 100%;"></a> -->
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/1001889586626175006)](https://discord.com/users/1001889586626175006)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852796108304023564)](https://discord.com/users/1001889586626175006)
 
 ### Visitor Count 🔢
 <p align="left"> 
