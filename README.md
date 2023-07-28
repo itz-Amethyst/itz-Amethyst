@@ -7,7 +7,7 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -25,11 +25,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 28 mins       █████████████████████████   99.47 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   7 hrs 21 mins       █████████████████████████   99.52 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-Python-Tut               6 hrs 30 mins       █████████████████████████   100.00 % 
+Python-Tut               7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
