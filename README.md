@@ -7,16 +7,16 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                287 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-🌆 Daytime                1748 commits        ██████████░░░░░░░░░░░░░░░   38.26 % 
-🌃 Evening                2488 commits        ██████████████░░░░░░░░░░░   54.45 % 
+🌞 Morning                289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+🌆 Daytime                1748 commits        ██████████░░░░░░░░░░░░░░░   38.24 % 
+🌃 Evening                2488 commits        ██████████████░░░░░░░░░░░   54.43 % 
 🌙 Night                  46 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
