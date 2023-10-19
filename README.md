@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=25&duration=6003&pause=1000&color=F044F7&background=F7F7F700&repeat=false&width=435&lines=%F0%9F%8D%B7+CS50+%F0%9F%8D%B7)](https://git.io/typing-svg)
- <a href="https://certificates.cs50.io/77dc34e6-17fd-4a8f-bee2-c31077710b61.png?size=A4" target="_blank" rel="noreferrer"> <img src="https://certificates.cs50.io/77dc34e6-17fd-4a8f-bee2-c31077710b61.png?size=A4" alt="cs50" style="max-width: 100%;"/> </a>
+
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=25&duration=6003&pause=1000&color=F044F7&background=F7F7F700&repeat=false&width=435&lines=%F0%9F%8D%B7+CS50+%F0%9F%8D%B7)](https://git.io/typing-svg)             |  My Terminal
+:-------------------------:|:-------------------------:
+![test](https://certificates.cs50.io/77dc34e6-17fd-4a8f-bee2-c31077710b61.png?size=A4)  |  ![test](https://cdn.discordapp.com/attachments/921633563810627588/1164274180695523378/image.png?ex=65429dd3&is=653028d3&hm=f80adf4bf83fb8e8166babe9805e48497f1b1f2f1383ddfd87be06f9d98b3192&)
 
 ### Spotify Playing 🎵
 [![Spotify](https://novatorem-callme-milad.vercel.app/api/spotify)](https://open.spotify.com/user/31qocuc7c7cg5zouwkn7jso7h5qa)
