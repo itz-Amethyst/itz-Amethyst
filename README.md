@@ -13,14 +13,15 @@
 
 [<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
 [<img src='https://cdn.worldvectorlogo.com/logos/fastapi.svg' width='40' height='40' />](https://fastapi.tiangolo.com/)
-[<img src='https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png' width='40' height='40' />](https://www.djangoproject.com/)
+[<img src='https://techstack-generator.vercel.app/django-icon.svg' width='40' height='40' />](https://www.djangoproject.com/)
 [<img src='https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611bbce32499d76d60c2b8dfcd8de49af4e8ac5f042&rid=giphy.gif&ct=s' width='40' height='40' alt='javascript'/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/512px-Svelte_Logo.svg.png' width='40' height='40' />](https://svelte.dev/)
 [<img src='https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-sm.png' width='40' height='40' />](https://tailwindcss.com/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' width='40' height='40' alt='csharp'/>](https://www.w3schools.com/cs/)
+[<img src='https://techstack-generator.vercel.app/csharp-icon.svg' width='45' height='45' alt='csharp'/>](https://www.w3schools.com/cs/)
 [<img src='https://www.keenesystems.com/hubfs/250300p1323EDNmainDotNetCore2.png' width='40' height='40' alt='dotnet'/>](https://dotnet.microsoft.com/)
 [<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' width='40' height='40' alt='git'/>](https://git-scm.com/)
 [<img src='https://assets.website-files.com/61d6b61c7084bb1d721a21aa/636add531dcf4d6ad0c45743_mssql%20260x260%20dark%20theme.png' width='40' height='40' alt='mssql'/>](https://www.microsoft.com/en-us/sql-server)
+[<img src='https://skillicons.dev/icons?i=postgres' width='45' height='45' alt='postgresql'/>](https://www.postgresql.org/)
 [<img src='https://techkblog.com/wp-content/uploads/2022/06/Docker.gif' width='40' height='40' alt='docker'/>](https://docker.com/)
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png' width='40' height='40' />](https://www.jetbrains.com/pycharm/)
