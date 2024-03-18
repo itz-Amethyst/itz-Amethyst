@@ -4,7 +4,7 @@
 
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=21&duration=7003&pause=3000&color=5D4EF7FF&background=F7F7F700&repeat=false&width=175&height=40&lines=%F0%9F%92%BB+My+Terminal+%F0%9F%92%BB)](https://git.io/typing-svg) |
 |:-----:|
-| ![test](https://cdn.discordapp.com/attachments/1113510096622862375/1212770205168828457/image15-ezgif.com-optipng.png?ex=65f30b45&is=65e09645&hm=160470ef31d74a14fc3dfea50dacf4f08f758f2d19a2343e17ebce4885295d4f&) |
+| ![test](https://cdn.discordapp.com/attachments/1113510096622862375/1212770602587525210/image_15.png?ex=660580a3&is=65f30ba3&hm=fda81f780b568711ead59f5dad4096b46d903a808645a0573b52b16e91d564b1&) |
 
 ### Spotify Playing 🎵
 [![Spotify](https://novatorem-callme-milad.vercel.app/api/spotify)](https://open.spotify.com/user/31qocuc7c7cg5zouwkn7jso7h5qa)
