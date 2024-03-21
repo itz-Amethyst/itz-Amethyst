@@ -49,11 +49,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Atlas_Proj               54 mins             ███████████████████████░░   93.94 % 
-Basic System             3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
