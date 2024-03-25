@@ -31,7 +31,7 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -49,10 +49,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Basic System             38 mins             ████████████████░░░░░░░░░   63.56 % 
+Atlas_Proj               22 mins             █████████░░░░░░░░░░░░░░░░   36.44 % 
 ```
 
 **I Mostly Code in Python** 
