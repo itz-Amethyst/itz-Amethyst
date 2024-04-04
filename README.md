@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=24&duration=6003&pause=1000&color=F044F7&background=F7F7F700&repeat=false&width=125&height=40&lines=%F0%9F%8D%B7+CS50+%F0%9F%8D%B7)](https://git.io/typing-svg)             |   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=24&duration=6003&pause=1000&color=F044F7&background=F7F7F700&repeat=false&width=135&height=40&lines=%F0%9F%90%8D+CS50P+%F0%9F%90%8D)](https://git.io/typing-svg)
 :-------------------------:|:-------------------------:
-<a href="https://certificates.cs50.io/77dc34e6-17fd-4a8f-bee2-c31077710b61.png?size=A4" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/1113510096622862375/1212768840237191258/CS50x-ezgif.com-resize.png?ex=660eb97f&is=65fc447f&hm=0b882972fdbb5dc078e76b077b59f9be57ecfd4da48f02ef2c806585e5d0b8b4&" alt="cs50"/> </a> | <a href="https://certificates.cs50.io/3f6f34be-467f-4bfb-a846-7c8b1063c2fe.png?size=A4" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/1113510096622862375/1212768653062447135/CS50P-ezgif.com-resize_2.png?ex=660eb953&is=65fc4453&hm=afb647ac05481dfe768da3db3b856b1b144eeeb6f345c2eaec0db5add0951531&" alt="cs50"/> </a>
+<a href="https://certificates.cs50.io/77dc34e6-17fd-4a8f-bee2-c31077710b61.png?size=A4" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/rQSQDhh/CS50x-ezgif-com-resize2.png" alt="cs50"/> </a> | <a href="https://certificates.cs50.io/3f6f34be-467f-4bfb-a846-7c8b1063c2fe.png?size=A4" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Cs2WjZX/CS50-P-ezgif-com-resize-2.png" alt="cs50"/> </a>
 
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=21&duration=7003&pause=3000&color=5D4EF7FF&background=F7F7F700&repeat=false&width=175&height=40&lines=%F0%9F%92%BB+My+Terminal+%F0%9F%92%BB)](https://git.io/typing-svg) |
 |:-----:|
-| ![test](https://cdn.discordapp.com/attachments/1113510096622862375/1212770602587525210/image_15.png?ex=660580a3&is=65f30ba3&hm=fda81f780b568711ead59f5dad4096b46d903a808645a0573b52b16e91d564b1&) |
+| ![test](https://i.ibb.co/9V3RB3X/image-15.png) |
 
 ### Spotify Playing 🎵
 [![Spotify](https://novatorem-callme-milad.vercel.app/api/spotify)](https://open.spotify.com/user/31qocuc7c7cg5zouwkn7jso7h5qa)
