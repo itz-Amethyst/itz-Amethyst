@@ -15,7 +15,7 @@
 [<img src='https://cdn.worldvectorlogo.com/logos/fastapi.svg' width='40' height='40' />](https://fastapi.tiangolo.com/)
 [<img src='https://techstack-generator.vercel.app/django-icon.svg' width='40' height='40' />](https://www.djangoproject.com/)
 [<img src='https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611bbce32499d76d60c2b8dfcd8de49af4e8ac5f042&rid=giphy.gif&ct=s' width='40' height='40' alt='javascript'/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/512px-Svelte_Logo.svg.png' width='40' height='40' />](https://svelte.dev/)
+[<img src='https://i.giphy.com/media/eNAsjO55tPbgaor7ma/100w.webp' width='40' height='40' />](https://reactjs.org/)
 [<img src='https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-sm.png' width='40' height='40' />](https://tailwindcss.com/)
 [<img src='https://techstack-generator.vercel.app/csharp-icon.svg' width='45' height='45' alt='csharp'/>](https://www.w3schools.com/cs/)
 [<img src='https://www.keenesystems.com/hubfs/250300p1323EDNmainDotNetCore2.png' width='40' height='40' alt='dotnet'/>](https://dotnet.microsoft.com/)
