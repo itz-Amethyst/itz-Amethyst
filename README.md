@@ -86,7 +86,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
   <img src="https://profile-counter.glitch.me/itz-Amethyst/count.svg" />
 </p>
 
-<picture>
+<!--<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -99,4 +99,4 @@ Shell                    1 repo              ░░░░░░░░░░░�
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
