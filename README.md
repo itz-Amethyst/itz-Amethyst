@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=24&duration=6003&pause=1000&color=F044F7&background=F7F7F700&repeat=false&width=125&height=40&lines=%F0%9F%8D%B7+CS50+%F0%9F%8D%B7)](https://git.io/typing-svg)             |   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=24&duration=6003&pause=1000&color=F044F7&background=F7F7F700&repeat=false&width=135&height=40&lines=%F0%9F%90%8D+CS50P+%F0%9F%90%8D)](https://git.io/typing-svg)
-:-------------------------:|:-------------------------:
-<a href="https://certificates.cs50.io/77dc34e6-17fd-4a8f-bee2-c31077710b61.png?size=A4" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/rQSQDhh/CS50x-ezgif-com-resize2.png" alt="cs50"/> </a> | <a href="https://certificates.cs50.io/3f6f34be-467f-4bfb-a846-7c8b1063c2fe.png?size=A4" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Cs2WjZX/CS50-P-ezgif-com-resize-2.png" alt="cs50"/> </a>
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=24&duration=6003&pause=1000&color=F044F7&background=F7F7F700&repeat=false&width=125&height=40&lines=%F0%9F%8D%B7+CS50+%F0%9F%8D%B7)](https://git.io/typing-svg)             |   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=24&duration=6003&pause=1000&color=F044F7&background=F7F7F700&repeat=false&width=135&height=40&lines=%F0%9F%90%8D+CS50P+%F0%9F%90%8D)](https://git.io/typing-svg) -->
+<!-- :-------------------------:|:-------------------------: -->
+<!-- <a href="https://certificates.cs50.io/77dc34e6-17fd-4a8f-bee2-c31077710b61.png?size=A4" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/rQSQDhh/CS50x-ezgif-com-resize2.png" alt="cs50"/> </a> | <a href="https://certificates.cs50.io/3f6f34be-467f-4bfb-a846-7c8b1063c2fe.png?size=A4" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Cs2WjZX/CS50-P-ezgif-com-resize-2.png" alt="cs50"/> </a> -->
 
-| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=21&duration=7003&pause=3000&color=5D4EF7FF&background=F7F7F700&repeat=false&width=175&height=40&lines=%F0%9F%92%BB+My+Terminal+%F0%9F%92%BB)](https://git.io/typing-svg) |
-|:-----:|
-| ![test](https://i.ibb.co/9V3RB3X/image-15.png) |
+<!-- | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=21&duration=7003&pause=3000&color=5D4EF7FF&background=F7F7F700&repeat=false&width=175&height=40&lines=%F0%9F%92%BB+My+Terminal+%F0%9F%92%BB)](https://git.io/typing-svg) | -->
+<!-- |:-----:| -->
+<!-- | ![test](https://i.ibb.co/9V3RB3X/image-15.png) | -->
+
 
 <!-- ### Spotify Playing 🎵
 [![Spotify](https://novatorem-callme-milad.vercel.app/api/spotify)](https://open.spotify.com/user/31qocuc7c7cg5zouwkn7jso7h5qa) -->
