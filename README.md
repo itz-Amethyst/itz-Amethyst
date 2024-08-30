@@ -46,10 +46,10 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nvim                     19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
