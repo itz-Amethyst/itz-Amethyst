@@ -28,7 +28,7 @@
 <!--<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C264%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C264%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -46,11 +46,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████████████████   99.66 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Python                   1 hr 24 mins        █████████████████████████   99.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-axcer                    1 hr 14 mins        █████████████████████████   100.00 % 
+axcer                    1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 
