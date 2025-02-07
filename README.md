@@ -28,7 +28,7 @@
 <!--<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -46,10 +46,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+hyprlang                 10 mins             ████████████░░░░░░░░░░░░░   46.79 % 
+TOML                     8 mins              █████████░░░░░░░░░░░░░░░░   37.46 % 
+jsonc                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          22 mins             █████████████████████████   100.00 % 
 ```
 
 
