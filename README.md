@@ -28,30 +28,9 @@
 <!--<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C310%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                351 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-🌆 Daytime                2378 commits        ████████░░░░░░░░░░░░░░░░░   33.08 % 
-🌃 Evening                4346 commits        ███████████████░░░░░░░░░░   60.46 % 
-🌙 Night                  113 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 hrs 10 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-dev                      2 hrs 4 mins        ████████████████████████░   95.04 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-```
 
 
 <!--END_SECTION:waka-->
