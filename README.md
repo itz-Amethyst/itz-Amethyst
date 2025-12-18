@@ -19,7 +19,7 @@
 [<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
 [<img src='https://cdn.worldvectorlogo.com/logos/fastapi.svg' width='40' height='40' />](https://fastapi.tiangolo.com/)
 [<img src='https://techstack-generator.vercel.app/django-icon.svg' width='40' height='40' />](https://www.djangoproject.com/)
-[<img src='https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_6ahX99xu2FH8Nkx2KgAvUcQyFiY5' width='40' height='30' />](https://huggingface.co/)
+[<img src='https://dt-cdn.net/hub/chroma.d840f629-icon.png' width='40' height='40' />](https://www.trychroma.com/)
 [<img src='https://techkblog.com/wp-content/uploads/2022/06/Docker.gif' width='40' height='40' alt='docker'/>](https://docker.com/)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png' width='40' height='40' alt='docker'/>](https://neovim.io/)
 [<img src='https://techstack-generator.vercel.app/csharp-icon.svg' width='45' height='45' alt='csharp'/>](https://www.w3schools.com/cs/)
